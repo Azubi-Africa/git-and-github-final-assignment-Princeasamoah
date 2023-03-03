@@ -20,7 +20,7 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
+| 1 |  Tip Calculator |  This seeks to calculate the total amount of a meal purchased with a fixed tip.      | https://github.com/Princeasamoah/Tip-Calculator-.git  |
 | 2 |  -             |  -             | https://       |
 | 3 |  -             |  -             | https://       |
 
