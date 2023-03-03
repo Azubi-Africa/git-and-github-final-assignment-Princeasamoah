@@ -22,7 +22,7 @@ The below table must contain the details of the repositories you will create, fi
 |:--:|:--------------:|:--------------:|:--------------:|
 | 1 |  Tip Calculator |  This seeks to calculate the total amount of a meal purchased with a fixed tip.      | https://github.com/Princeasamoah/Tip-Calculator-.git  |
 | 2 | Sales-and-Operations-Planning-Project | This repository is going to simulate a sales and operations planning using the zero-stock level strategy |                                                           https://github.com/Princeasamoah/Sales-and-Operations-Planning-Project.git |
-| 3 |  -             |  -             | https://       |
+| 3 |  Tesano-Mortgage-Calculator             |      This determines whether you meet the minimum requirements for a loan or how much you qualify for. It is also here to aggregates how much to pay each month to be able to settle a particular loan.       | https://github.com/Princeasamoah/Tesano-Mortgage-Calculator-.git      |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
